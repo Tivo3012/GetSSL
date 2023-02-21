@@ -1,0 +1,8 @@
+C:\Users\Tivo3\Desktop\GetSSLKey\GetSSLKey\bin\Debug\GetSSLKey.exe.config
+C:\Users\Tivo3\Desktop\GetSSLKey\GetSSLKey\bin\Debug\GetSSLKey.exe
+C:\Users\Tivo3\Desktop\GetSSLKey\GetSSLKey\bin\Debug\GetSSLKey.pdb
+C:\Users\Tivo3\Desktop\GetSSLKey\GetSSLKey\obj\Debug\GetSSLKey.csproj.AssemblyReference.cache
+C:\Users\Tivo3\Desktop\GetSSLKey\GetSSLKey\obj\Debug\GetSSLKey.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tivo3\Desktop\GetSSLKey\GetSSLKey\obj\Debug\GetSSLKey.csproj.CoreCompileInputs.cache
+C:\Users\Tivo3\Desktop\GetSSLKey\GetSSLKey\obj\Debug\GetSSLKey.exe
+C:\Users\Tivo3\Desktop\GetSSLKey\GetSSLKey\obj\Debug\GetSSLKey.pdb
